@@ -40,4 +40,4 @@ form.addEventListener("submit", function (event) {
 
   premiumValue.textContent = "$" + premium;
   premiumBox.hidden = false;
-);
+});
